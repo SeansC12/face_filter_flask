@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/sean/Documents/Q_-_React_Workspace/face_filter_web/face-filter_flask/.venv"
+VIRTUAL_ENV="/Users/sean/Documents/Q_-_React_Workspace/face-filter_flask/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
